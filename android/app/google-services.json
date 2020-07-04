@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "327311639614",
+    "firebase_url": "https://app-o-baratao.firebaseio.com",
+    "project_id": "app-o-baratao",
+    "storage_bucket": "app-o-baratao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327311639614:android:0cc47c28d76b36e85ffd6f",
+        "android_client_info": {
+          "package_name": "br.com.mms.app_o_baratao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327311639614-bjo6be3va7dkuchha5oh9oc303e0q4ab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.mms.app_o_baratao",
+            "certificate_hash": "902c4d594b25b83b8ff87c445d2b31a4b6f1c1c6"
+          }
+        },
+        {
+          "client_id": "327311639614-al57bubhe7pcmcdioecqi7rp49j3seb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9dIIzcxUE4dU5WPZsLrmJSvv_Y5QyGWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327311639614-al57bubhe7pcmcdioecqi7rp49j3seb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
